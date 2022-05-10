@@ -1,5 +1,13 @@
 /* stylesheet */
 
+h1 {
+    font-size: 40px;
+}
+
+.profile-name {
+    font-size: 20px;
+}
+
 .img_profile-pic {
     border-radius: 25px;
 }
